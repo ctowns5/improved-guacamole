@@ -44,7 +44,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'License Type?',
-        choices:['MIT','GNUPLv3.0','CCZero']
+        choices:['MIT','GNUPLv3','CCZero']
     },
 ];
 
