@@ -29,8 +29,8 @@
   NA
 
   ## License
-  
-  MIT
+  Licensed under the [MIT](https://opensource.org/licenses/MIT) license
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## link to video walkthrough:  https://drive.google.com/file/d/1yzOZYqrHOY0LG3mJaavuGgOWzXRjVsen/view
+## link to video walkthrough:  https://drive.google.com/file/d/14ADzpcnGH66ZGgqqg0NdhgoPyBFnV_WE/view
 ## link to GitHub Repository:  https://github.com/ctowns5/improved-guacamole
