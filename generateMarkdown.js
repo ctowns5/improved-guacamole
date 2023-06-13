@@ -68,8 +68,7 @@
   ## License
   ${renderLicenseSection(data.license)}
   ${renderLicenseBadge(data.license)}
-  ${data.license}
-
+  
 `;
   }
 
