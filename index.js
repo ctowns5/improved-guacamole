@@ -44,7 +44,10 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'License Type?',
-        choices:['MIT','GNUPLv3','CCZero']
+        choices:['MIT','GNUPLv3','CCZero'],
+        filter(val) {
+            return val.toLowerCase();
+        }
     },
 ];
 
@@ -56,6 +59,7 @@ function init() {
     inquirer.prompt(questions)
     .then((data) => {
         const answers = generateMarkdown(data)
+        //console.log(answers)
         fs.writeFile('./readmefiles/README.md', answers, function (err){
             if (err) {
                 console.log("couldn't save file")
