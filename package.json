@@ -1,7 +1,7 @@
 {
   "name": "improved-guacamole",
   "version": "1.0.0",
-  "description": "This is a node.js app that generates a readme file for use with github projects or other purposes."
+  "description": "This is a node.js app that generates a readme file for use with github projects or other purposes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
