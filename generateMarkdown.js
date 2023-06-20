@@ -51,7 +51,7 @@
   ${data.description}
 
   ## Usage
-  ${data.useage}
+  ${data.usage}
 
   ## Installation
   ${data.installation}
