@@ -38,7 +38,7 @@
     return `
   # ${data.title}
 
-    ## Table of Contents
+  ## Table of Contents
   - [Description](#Description)
   - [Usage](#Usage)
   - [Installation](#Installation)
